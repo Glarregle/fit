@@ -1,13 +1,9 @@
 {
   "name": "fit",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "fit.js",
-  "dependencies": {
-    "gulp": "^3.9.0",
-    "gulp-rename": "^1.2.0",
-    "gulp-uglify": "^0.3.1"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
